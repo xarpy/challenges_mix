@@ -9,6 +9,7 @@ To solve it, simply use the mathematical theory of sets. From this intersection 
 
 And to calculate the total, we add up all the contents of the sets and their intersections. In the end, we have a total of 18 people in the party.
 
+A. 18 peoples on party 
 
 
 2.Solution:
@@ -25,6 +26,8 @@ The next calculation would be to get the value of the early time, we would obser
 
 Extra time -> x -(-15) = 15 => x + 15 = 15 => x = 15 -15 => x = 0
 
+A. She arrived on time.
+
 
 3.The value of the first offer is, abstractly a notation as follows:
 
@@ -39,8 +42,9 @@ The equivalent value of 3x/2 represents the total product value, and its abstrac
 
 From this abstraction we can observe, through proportionality, that the correct answer would be letter C.
 
+A. letter C.
 
-4.According to the text, we observe that Sarah remembers 4 of the 8 numbers, from Lorraine's contact. Thus decreasing the amount of possible combinations, as well as the criteria of the possibility of not having repeated numbers. 
+4.According to the text, we observe that Sarah remembers 4 of the 8 numbers, from Lorenna's contact. Thus decreasing the amount of possible combinations, as well as the criteria of the possibility of not having repeated numbers. 
 
 Then we just need to define them, realizing the possible arithmetic combinations, with the theory of combinatory analysis and permutation.
 
@@ -52,3 +56,5 @@ Then we just need to define them, realizing the possible arithmetic combinations
 
 
 Important detail, since the numbers cannot be repeated, it is necessary to remove any 4 numbers from the amount. 
+
+A. 360 combinations.
