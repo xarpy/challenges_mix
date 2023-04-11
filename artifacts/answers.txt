@@ -1,0 +1,54 @@
+1.Solution:
+
+To solve it, simply use the mathematical theory of sets. From this intersection we always remove 5 friends from the other sets, which communicate directly with it.
+
+1. We have an intersection, with 5 friends who drink beer and soda.
+2. 8 friends drink soda;
+3. 5 friends drink beer;
+
+
+And to calculate the total, we add up all the contents of the sets and their intersections. In the end, we have a total of 18 people in the party.
+
+
+
+2.Solution:
+
+To calculate we must know the difference in minutes between the time set by Sarah and the actual time, which is ahead of time. Obtained from this calculation:
+
+Time difference -> 10 -(-5) = 15 minutes
+
+From this difference, we can exactly predict the actual time shown on Sarah's watch to be sure if Sarah is late, early or on time.  
+
+With her suspected 15 min late, we check based on the time difference and observe that she is on time.
+
+The next calculation would be to get the value of the early time, we would observe that it does not exist:
+
+Extra time -> x -(-15) = 15 => x + 15 = 15 => x = 15 -15 => x = 0
+
+
+3.The value of the first offer is, abstractly a notation as follows:
+
+Product value -> x 
+Discount applied -> x/2
+Notation -> x + x/2  
+
+However this can also be represented as follows:
+x+x/2 => 2x/2 + x/2 => 3x/2
+
+The equivalent value of 3x/2 represents the total product value, and its abstract and representative form also makes clear its mathematical proportion. 
+
+From this abstraction we can observe, through proportionality, that the correct answer would be letter C.
+
+
+4.According to the text, we observe that Sarah remembers 4 of the 8 numbers, from Lorraine's contact. Thus decreasing the amount of possible combinations, as well as the criteria of the possibility of not having repeated numbers. 
+
+Then we just need to define them, realizing the possible arithmetic combinations, with the theory of combinatory analysis and permutation.
+
+*x -> Represents the remembered and fixed numbers
+*numbers -> Other numbers, are the quantity of numbers, per position that can be applied.
+
+
+|x|x|x|x|6|5|4|3| => 360 possible combinations
+
+
+Important detail, since the numbers cannot be repeated, it is necessary to remove any 4 numbers from the amount. 
